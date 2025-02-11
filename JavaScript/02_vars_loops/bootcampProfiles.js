@@ -39,3 +39,6 @@ function namef(params) {
 }
 
 console.log(typeof namef);
+
+let salary = undefined;
+console.log(typeof salary);
