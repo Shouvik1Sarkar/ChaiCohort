@@ -10,3 +10,16 @@ b = {
 a.fName = "hrithik";
 console.log(a);
 console.log(b);
+
+function increment() {
+  let count = 0;
+
+  count++;
+  return count;
+}
+let x = increment();
+
+console.log(x);
+console.log(x);
+console.log(x);
+console.log(x);
